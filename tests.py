@@ -1,2 +1,3 @@
-x=2
-return 0
+def ala():
+	x=2
+	return 0
